@@ -1,0 +1,15 @@
+h1{
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;    
+}
+
+.smaller{
+        scale: 0.5;
+        margin-left: -30%;
+        margin-top: -15%;
+        margin-bottom: -15%;
+    
+}
+body{
+    background-color: rgb(13, 117, 32);
+}
